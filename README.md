@@ -68,7 +68,7 @@ The complete prototype consists of the analog front-end, multiplexing network, E
 
 ### Two-Anomaly Phantom Configuration
 
-![Two Anomalies](two_anomaly_phantom.jpeg)
+![Two Anomalies](two_anamoly_phantom.jpeg)
 
 Two low-conductivity objects were inserted into the water-filled phantom to evaluate anomaly localization performance.
 
