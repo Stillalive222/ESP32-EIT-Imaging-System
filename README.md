@@ -58,7 +58,7 @@ Current is injected through selected electrode pairs while voltage measurements 
 
 ### Complete EIT Hardware Setup
 
-![Complete Setup](images/setup.jpg)
+![Complete Setup](setup.jpeg)
 
 The complete prototype consists of the analog front-end, multiplexing network, ESP32-S3 controller, ADC module, and the 16-electrode phantom used for data acquisition.
 
@@ -68,13 +68,13 @@ The complete prototype consists of the analog front-end, multiplexing network, E
 
 ### Two-Anomaly Phantom Configuration
 
-![Two Anomalies](images/two_anomaly_phantom.jpg)
+![Two Anomalies](two_anomaly_phantom.jpeg)
 
 Two low-conductivity objects were inserted into the water-filled phantom to evaluate anomaly localization performance.
 
 ### Reconstructed Conductivity Distribution
 
-![Reconstruction Result](images/reconstruction_result.jpg)
+![Reconstruction Result](reconstruction_result.jpeg)
 
 The reconstructed conductivity map generated using the PyEIT Back Projection algorithm successfully identifies the locations of the inserted anomalies.
 
